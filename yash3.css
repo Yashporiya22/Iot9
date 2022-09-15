@@ -1,0 +1,31 @@
+* {
+ margin: 0;
+ box-sizing: border-box;
+}
+body{
+ font-family: "Roboto", sans-sarif;
+ background: white;
+}
+h1{
+ margin: 16px;
+ background: lightgreen;
+ color: darkblue;
+}
+div{
+ margin: 16px;
+ background: white;
+ color: darkblue;
+}
+h2{
+ color: darkblue;
+}
+#but1{
+ margin: 16px;
+ background: lightblue;
+ color: darkblue;
+}
+#but2{
+ margin: 16px;
+ background: lightblue;
+ color: darkblue;
+}
